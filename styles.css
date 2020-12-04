@@ -1,0 +1,78 @@
+body {
+background: #F0C27B;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #4B1248, #F0C27B);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #4B1248, #F0C27B); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+font-family: 'Fredoka One', bold;
+}
+
+header {
+  background-image: linear-gradient(120deg, #d4fc79 0%, #96e6a1 100%);
+  border-radius: 15px;
+  border: 5px solid black;
+  overflow: hidden;
+}
+
+#bingo {
+  margin-left: 5%;
+  padding-top: 0.50%;
+  padding-bottom: 0.50%;
+  font-size: 200%;
+  float: left;
+}
+
+#clik {
+  margin-left: 10%;
+  padding-top: 0.50%;
+  padding-bottom: 0.50%;
+  font-size: 150%;
+  float:left;
+  font-style: italic;
+}
+
+#button {
+   background-color: white;
+   font-size: 150%;
+   float: right;
+   margin-right: 3%;
+   margin-top: 0.30%;
+   padding-top: 0.50%;
+   padding-bottom: 0.50%;
+   margin-bottom: 0.4%;
+   border-style: groove;
+   cursor: pointer;
+   width: 20%;
+   border-radius: 15px;
+   font-family: 'Pathway Gothic One', sans-serif;
+}
+
+#td13 {
+  font-size: 170%;
+}
+
+table, th, td {
+  font-size: 170%;
+  margin: auto;
+  margin-top: 3%;
+  border: 5px solid black;
+  border-radius: 15px;
+  table-layout: auto;
+  text-align: center;
+}
+
+table {
+  background-color: white;
+}
+
+td {
+  width: 85px;
+  height: 70px;
+  cursor: pointer;
+}
+
+.row {
+  background-color: white;
+}
+
+#bing {
+  background-color: #fcf300;
+}
