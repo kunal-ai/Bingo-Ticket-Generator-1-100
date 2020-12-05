@@ -31,4 +31,4 @@ document.getElementById("td25").textContent = numberoF[23];
 
 setTimeout(function(){
  document.getElementById('clik').textContent = "";
-}, 13000);
+}, 20000);
